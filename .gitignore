@@ -1,0 +1,3 @@
+*.json
+*.zkey
+node_modules/
